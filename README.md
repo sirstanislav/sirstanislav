@@ -1,7 +1,4 @@
-# Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Stanislav</h1>
-<h3 align="center">I’m currently learning Web Developer course from Yandex Practicum.</h3>
+<h1> Hi 👋, I'm Stanislav</h1>
 
 </br>
 
