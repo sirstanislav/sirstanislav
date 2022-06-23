@@ -1,22 +1,34 @@
-# Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Stanislav</h1>
+<h2 align="center">Hi 👋, I'm Stanislav</h2>
 <h3 align="center">I’m currently learning Web Developer course from Yandex Practicum.</h3>
 
 </br>
 
-<h3 align="left">Languages and Tools:</h3>
+<p align="center"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K" alt="css3" width="100" height="100"/>&nbsp&nbsp&nbsp
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="css3" width="100" height="100"/>&nbsp&nbsp&nbsp
+<img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" alt="css3" width="100" height="100"/>&nbsp&nbsp&nbsp
+<img src="https://de.smartcat.com/_vue_builder/smartcat_en_main_1626933869281_1646862035619_figma-square_2x.png" alt="css3" width="100" height="100"/>&nbsp&nbsp&nbsp
+<img src="https://nodejs.org/static/images/logo.svg" alt="css3" width="100" height="100"/>&nbsp&nbsp&nbsp
+<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="css3" width="100" height="100"/>&nbsp&nbsp&nbsp
+<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" alt="css3" width="100" height="100"/>
+</p>
+
 </br>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"></br><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctacbarada&show_icons=true&locale=en&layout=compact" alt="ctacbarada" /></p>
+<p align="center"><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=ctacbarada&show_icons=true&locale=en&layout=compact" alt="ctacbarada" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ctacbarada&show_icons=true&locale=en" alt="ctacbarada" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ctacbarada&" alt="ctacbarada" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ctacbarada&show_icons=true&locale=en" alt="ctacbarada" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctacbarada&" alt="ctacbarada" /></p>
+<h3 align="center">Click me</h3>
 
-Here I want to show a preview of my projects: 
+<br>
 
-* The second project was written using adaptive design [**Russian Travel**](https://github.com/ctacbarada/RussianTravel). <a href="https://ctacbarada.github.io/RussianTravel/" target="_blank"><img src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
 
-* My first project is [**How to learn**](https://github.com/ctacbarada/HowToLearn). <a href="https://ctacbarada.github.io/HowToLearn/" target="_blank"><img src="https://raw.githubusercontent.com/ctacbarada/FRONT/main/images/ScrHTL.png"></a>
+<p align="center">
+<a href="https://ctacbarada.github.io/RussianTravel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
+<a href="https://ctacbarada.github.io/HowToLearn/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/FRONT/main/images/ScrHTL.png"></a>
+<a href="https://ctacbarada.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/ctacbarada/mesto/blob/main/src/images/preview.png?raw=true"></a>
+</p>
+
+
