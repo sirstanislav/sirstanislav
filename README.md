@@ -1,32 +1,31 @@
 <h2 align="center">Hi 👋, I'm Stanislav</h2>
-<h3 align="center">I’m currently learning Web Developer course from Yandex Practicum.</h3>
+
+- 🧑‍💻 I'm web development
 
 </br>
 
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="100" height="100"/>&nbsp&nbsp&nbsp
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" width="100" height="100"/>&nbsp&nbsp&nbsp
-<img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="100" height="100"/>&nbsp&nbsp&nbsp
-<img src="https://de.smartcat.com/_vue_builder/smartcat_en_main_1626933869281_1646862035619_figma-square_2x.png" width="100" height="100"/>&nbsp&nbsp&nbsp
-<img src="https://nodejs.org/static/images/logo.svg" alt="css3" width="100" height="100"/>&nbsp&nbsp&nbsp
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" width="100" height="100"/>&nbsp&nbsp&nbsp
-<img src="https://w7.pngwing.com/pngs/201/90/png-transparent-logo-html-html5.png" width="100" height="100"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /> -->
+  <!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> -->
 </p>
+<br>
 
-</br>
-
-<p align="center"><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=ctacbarada&show_icons=true&locale=en&layout=compact" alt="ctacbarada" /></p>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ctacbarada&show_icons=true&locale=en" alt="ctacbarada" /></p>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ctacbarada&" alt="ctacbarada" /></p>
-
+<div align="center"><img   src="https://github-readme-streak-stats.herokuapp.com?user=ctacbarada&theme=Javascript&hide_border=true&text_color=#ff0000" alt="ctacbarada" /></div>
 <br>
 
 <h3 align="center">Click me</h3>
-
 <br>
 
-<p align="center">
+<div align="center">
 <a href="https://github.com/ctacbarada/movies-explorer-api" target="_blank"><img width="200" height="100" src="https://github.com/ctacbarada/movies-explorer-frontend/raw/main/src/images/Screenshot%202022-09-09%20at%2022.51.59.png?raw=true"></a>
 <a href="https://ctacbarada.github.io/RussianTravel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
 <a href="https://ctacbarada.github.io/HowToLearn/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/FRONT/main/images/ScrHTL.png"></a>
 <a href="https://ctacbarada.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/ctacbarada/mesto/blob/main/src/images/preview.png?raw=true"></a>
-</p>
+</div>
