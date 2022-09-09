@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Stanislav</h2>
 
-- 🧑‍💻 I'm web development
+- 🧑‍💻 I'm web developer
 
 </br>
 
