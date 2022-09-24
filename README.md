@@ -20,7 +20,7 @@
 </p>
 <br>
 
-<div align="center"><img   src="https://github-readme-streak-stats.herokuapp.com?user=ctacbarada&theme=Javascript&hide_border=true&text_color=#ff0000" alt="ctacbarada" /></div>
+<div align="center"><img   src="https://github-readme-streak-stats.herokuapp.com?user=sirstanislav&theme=Javascript&hide_border=true&text_color=#ff0000" alt="ctacbarada" /></div>
 <br>
 
 <h3 align="center">Click me</h3>
