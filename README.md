@@ -28,7 +28,7 @@
 
 <div align="center">
 <a href="https://github.com/ctacbarada/movies-explorer-api" target="_blank"><img width="200" height="100" src="https://github.com/ctacbarada/movies-explorer-frontend/raw/main/src/images/Screenshot%202022-09-09%20at%2022.51.59.png?raw=true"></a>
-<a href="https://ctacbarada.github.io/RussianTravel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
-<a href="https://ctacbarada.github.io/HowToLearn/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/FRONT/main/images/ScrHTL.png"></a>
-<a href="https://ctacbarada.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/ctacbarada/mesto/blob/main/src/images/preview.png?raw=true"></a>
+<a href="https://sirstanislav.github.io/RussianTravel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
+<a href="https://sirstanislav.github.io/HowToLearn/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/FRONT/main/images/ScrHTL.png"></a>
+<a href="https://sirstanislav.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/mesto/blob/main/src/images/preview.png?raw=true"></a>
 </div>
