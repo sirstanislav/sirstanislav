@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋, I'm Stanislav</h2>
 
 - 🧑‍💻 I'm web developer
+- 📧 stas.soorchan@gmail.com
+- 📝 <a href="https://drive.google.com/file/d/1HVwhOrE4jqGyLmGP45ljVzBEJ4xBQjas/view?usp=sharing" target="_blank">Resume</a>
 
 </br>
 
