@@ -1,8 +1,10 @@
-<h2 align="center">Hi 👋, I'm Stanislav</h2>
+<h1 align="center">Hi 👋, I'm Stanislav</h1>
 
-- 🧑‍💻 I'm web developer
-- 📧 stas.soorchan@gmail.com
-- 📝 <a href="https://drive.google.com/file/d/1HVwhOrE4jqGyLmGP45ljVzBEJ4xBQjas/view?usp=sharing" target="_blank">Resume</a>
+- 🧑‍💻 I like data visualization and processing in web development. I strive to create user-friendly interfaces. I read blogs of web developers and solve puzzles on Codewars. In my free time, i make my pet project through the Twitter API.
+
+- 📝 <a href="https://www.linkedin.com/in/ctacleo/" target="_blank">Linkedin</a>
+- 📱 <a href="https://t.me/ctacleo" target="_blank">Telegram</a>
+- 📧 stas.sorochan@gmail.com
 
 </br>
 
