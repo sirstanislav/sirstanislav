@@ -24,10 +24,7 @@
 </div>
 <br>
 
-<div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sirstanislav&theme=Javascript&hide_border=true&text_color=#ff0000" alt="ctacbarada"/></div>
-<br>
-
-<h3 align="center">Click me</h3>
+<h2 align="center" style="color:#f1df3d; font-weight: bold">MY PROJECTS</h2>
 <br>
 
 <div align="center">
@@ -36,3 +33,7 @@
 <a href="https://sirstanislav.github.io/HowToLearn/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/FRONT/main/images/ScrHTL.png"></a>
 <a href="https://sirstanislav.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/mesto/blob/main/src/images/preview.png?raw=true"></a>
 </div>
+<br>
+
+<div align="center"><img height="auto" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=sirstanislav&theme=Javascript&hide_border=true&text_color=#ff0000" alt="ctacbarada"/></div>
+
