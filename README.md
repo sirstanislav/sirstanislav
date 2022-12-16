@@ -5,6 +5,7 @@
 - 📝 <a href="https://www.linkedin.com/in/ctacleo/" target="_blank">Linkedin</a>
 - 📱 <a href="https://t.me/ctacleo" target="_blank">Telegram</a>
 - 📧 stas.sorochan@gmail.com
+- <a href="https://www.codewars.com/users/sirstanislav" target="_blank"><img src="https://www.codewars.com/users/sirstanislav/badges/micro"></a>
 
 </br>
 
@@ -29,8 +30,8 @@
 
 <div align="center">
 <a href="https://github.com/ctacbarada/movies-explorer-api" target="_blank"><img width="200" height="100" src="https://github.com/ctacbarada/movies-explorer-frontend/raw/main/src/images/Screenshot%202022-09-09%20at%2022.51.59.png?raw=true"></a>
-<a href="https://sirstanislav.github.io/russian-travel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
-<a href="https://sirstanislav.github.io/how-to-learn/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/HowToLearn/blob/main/images/Gif.gif?raw=true"></a>
+<a href="https://sirstanislav.github.io/RussianTravel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
+<a href="https://sirstanislav.github.io/HowToLearn/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/FRONT/main/images/ScrHTL.png"></a>
 <a href="https://sirstanislav.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/mesto/blob/main/src/images/preview.png?raw=true"></a>
 </div>
 <br>
