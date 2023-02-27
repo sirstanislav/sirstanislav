@@ -62,7 +62,6 @@
 <a href="https://github.com/sirstanislav"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirstanislav&langs_count=5&title_color=facc15&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 </div>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-<a href="http://www.github.com/sirstanislav"><img src="https://github-readme-stats.vercel.app/api?username=sirstanislav&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="sirstanislav's GitHub stats" /></a>
-<a href="http://www.github.com/sirstanislav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirstanislav&stroke=3382ed&background=ffffff&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
+<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+<img src="https://github-readme-stats.vercel.app/api?username=sirstanislav&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="sirstanislav's GitHub stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirstanislav&stroke=3382ed&background=ffffff&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" />
 </div>
