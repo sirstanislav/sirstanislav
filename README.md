@@ -51,8 +51,8 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/ctacbarada/movies-explorer-api" target="_blank"><img width="200" height="100" src="https://github.com/ctacbarada/movies-explorer-frontend/raw/main/src/images/Screenshot%202022-09-09%20at%2022.51.59.png?raw=true"></a>
-<a href="https://sirstanislav.github.io/russian-travel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/ctacbarada/russian-travel/main/images/Preview.png"></a>
+<a href="https://github.com/sirstanislav/movies-explorer-api" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/movies-explorer-frontend/raw/main/src/images/Screenshot%202022-09-09%20at%2022.51.59.png?raw=true"></a>
+<a href="https://sirstanislav.github.io/russian-travel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/sirstanislav/russian-travel/main/images/Preview.png"></a>
 <a href="https://sirstanislav.github.io/how-to-learn/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/HowToLearn/blob/main/images/Gif.gif?raw=true"></a>
 <a href="https://sirstanislav.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/mesto/blob/main/src/images/preview.png?raw=true"></a>
 </div>
@@ -63,5 +63,6 @@
 </div>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
-<img src="https://github-readme-stats.vercel.app/api?username=sirstanislav&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="sirstanislav's GitHub stats" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=sirstanislav&stroke=3382ed&background=ffffff&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=sirstanislav&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=3382ed&icon_color=facc15&bg_color=ffffff&hide_border=true&show_icons=true" alt="sirstanislav's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/user=sirstanislav&stroke=3382ed&background=ffffff&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" />
 </div>
