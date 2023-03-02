@@ -51,7 +51,7 @@
 <br>
 
 <div align="center">
-<a href="https://github.com/sirstanislav/movies-explorer-api" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/movies-explorer-frontend/raw/main/src/images/Screenshot%202022-09-09%20at%2022.51.59.png?raw=true"></a>
+<a href="https://github.com/sirstanislav/movies-explorer-frontend" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/movies-explorer-frontend/raw/main/src/images/Screenshot%202022-09-09%20at%2022.51.59.png?raw=true"></a>
 <a href="https://sirstanislav.github.io/russian-travel/" target="_blank"><img width="200" height="100" src="https://raw.githubusercontent.com/sirstanislav/russian-travel/main/images/Preview.png"></a>
 <a href="https://sirstanislav.github.io/how-to-learn/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/HowToLearn/blob/main/images/Gif.gif?raw=true"></a>
 <a href="https://sirstanislav.github.io/mesto/" target="_blank"><img width="200" height="100" src="https://github.com/sirstanislav/mesto/blob/main/src/images/preview.png?raw=true"></a>
